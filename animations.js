@@ -1,3 +1,4 @@
+window.addEventListener("load", () => {
 const canvas=document.getElementById("form");
 const benrikit=canvas.getContext("2d");
 let timer;
@@ -122,3 +123,4 @@ futsu.onload = () => {
 };
 
 canvas.addEventListener("click",gen_anzu);
+    });
