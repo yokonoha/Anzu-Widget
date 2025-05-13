@@ -1,4 +1,4 @@
-# Anzu-Widget(Unstable/挙動が不安定な部分があります)  
+# Anzu-Widget  
 [Canvas Animation Component for Page Decoration] Dynamic widget that shows Anzu eating apricots.(杏子が杏を食べるだけの動的デコレーション)  
 
 ## Example/例  
