@@ -15,5 +15,5 @@ You can increase the amount of apricots added by repeatedly clicking on the Canv
 
 ## About bugs  
 このコンポーネントには初回ロード時に動作しないという致命的な不具合が残存しています。直すのが億劫なので、直せる方は直して使ってください、、。(丸投げ)  
-あと、出来れば直し方教えて欲しいです...(無力)
+あと、出来れば直し方教えて欲しいです...(無力)  
 This component has a fatal bug that it doesn't work on the first load. It's too much work to fix, so if you can fix it, please fix it and use it.  
